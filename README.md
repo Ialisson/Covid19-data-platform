@@ -1,6 +1,3 @@
-# Covid19-data-platform
-End-to-end data engineering project analyzing global COVID-19 trends using updated post-pandemic datasets.
-
 # 🌍 COVID-19 Data Platform — End-to-End Data Engineering Project
 
 ## 📌 Overview
